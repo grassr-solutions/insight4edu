@@ -4,8 +4,7 @@
 INS⬆GHT is an advanced tool designed to provide more objective analysis of student evaluations for teaching assessment. It addresses the limitations of traditional evaluation methods through data-driven approaches and natural language processing.
 
 ## Traditional Student Evaluations - Limitations
-- While common for hiring, tenure, and promotion decisions
-- Issues with numerical ratings:
+- Ambiguous numerical ratings:
   - Ambiguous interpretation
   - Non-linear difference between rating points
   - Misleading averages that don't accurately represent polarized opinions
@@ -13,6 +12,7 @@ INS⬆GHT is an advanced tool designed to provide more objective analysis of stu
 - Potential misrepresentation in narrative summaries
 
 ## INS⬆GHT Advantages
+- Survey turnaround of under 2 working days
 - Eliminates misleading "final averages"
 - Compares evaluations across the grade spectrum
 - Uses research-backed questions measuring input rather than output
@@ -22,14 +22,19 @@ INS⬆GHT is an advanced tool designed to provide more objective analysis of stu
 - Integrates with teaching portfolio assessment
 
 ## Technical Limitations
-- Non-instantaneous response processing
 - Comment summaries limited to approximately 2,000,000 characters (~4,000 pages)
 - Currently supports English language only
 
+## File Structure
+```
+├── LICENSE              # GNU General Public License v3.0
+├── about.html           # Marketing page describing INS⬆GHT's features and pricing
+└── README.md            # This file
+
 ## Pricing Structure
 - Character-based pricing: 1¢ per character in narrative reports
-- PHP 2,500 annual access fee
-- Non-refundable deposit of PHP 17,500 credit (consumable throughout service lifetime)
+- ₱2,500 annual access fee
+- Non-refundable deposit of ₱17,500 credit (consumable throughout service lifetime)
 
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
