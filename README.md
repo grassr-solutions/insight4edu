@@ -30,6 +30,7 @@ INS⬆GHT is an advanced tool designed to provide more objective analysis of stu
 ├── LICENSE              # GNU General Public License v3.0
 ├── about.html           # Marketing page describing INS⬆GHT's features and pricing
 └── README.md            # This file
+```
 
 ## Pricing Structure
 - Character-based pricing: 1¢ per character in narrative reports
