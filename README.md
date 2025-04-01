@@ -37,9 +37,6 @@ INS⬆GHT is an advanced tool designed to provide more objective analysis of stu
 - ₱2,500 annual access fee
 - Non-refundable deposit of ₱17,500 credit (consumable throughout service lifetime)
 
-## License
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 - Email: growyourbusiness@grassr.solutions
 - Phone: (+63) 917 631 6885
